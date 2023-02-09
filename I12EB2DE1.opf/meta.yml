@@ -1,0 +1,16 @@
+id: I12EB2DE1
+default_language: bo
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-10 00:14:11.593565
+last_modified: 2023-02-10 00:14:11.593701
+source_metadata:
+  title: 'MSV 6,03: Ekottara'
+  language: bo
+bases:
+  A50C:
+    base_file: A50C.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
